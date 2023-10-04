@@ -1,0 +1,14 @@
+1. Installing VS Code & How Websites Work 
+
+→ client → browser (www.google.com) → goes to google server and take response and render in the browser → client will access
+→ response code is 200
+→ page not found 404 
+
+Backend:     how server is processing request 
+--> Backend is the server side of the website 
+--> It stores and arrange data and als makes sure everything on the client side works fine.
+--> It is part of a website that you can not see and interact with.
+--> It is a portion of software that does not come in direct contact with.
+
+FrontEnd 
+Html, css and js 
